@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "797485515272",
+    "project_id": "learnergy0-3eae6",
+    "storage_bucket": "learnergy0-3eae6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797485515272:android:3b8381a7ad27169eca87bd",
+        "android_client_info": {
+          "package_name": "com.example.learnergy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797485515272-jo858gsdm9o2ipc096igr5h1igrbnd79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFl34SQDL7H3bPAeIl0rn6k07q85BfMiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797485515272-jo858gsdm9o2ipc096igr5h1igrbnd79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
